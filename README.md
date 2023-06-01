@@ -5,17 +5,17 @@
 # Bilder vom Spiel
 
 ## Startbildschirm
-![1 Image](1.PNG)
+![1 Image](imgs/1.PNG)
 ## bis 4 Spieler
-![2 Image](2.PNG)
+![2 Image](imgs/2.PNG)
 ## GameStart
-![3 Image](3.PNG)
+![3 Image](imgs/3.PNG)
 ## Change All Action
-![4 Image](4.PNG)
+![4 Image](imgs/4.PNG)
 ## Letzte Runde
-![5 Image](5.PNG)
+![5 Image](imgs/5.PNG)
 ## GameFinished
-![6 Image](6.PNG)
+![6 Image](imgs/6.PNG)
 
 ## Wichtige Links
 

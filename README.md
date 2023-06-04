@@ -6,7 +6,7 @@
 
 ## Startbildschirm
 ![1 Image](imgs/1.PNG)
-## bis 4 Spieler
+## bis zu 4 Spieler
 ![2 Image](imgs/2.PNG)
 ## GameStart
 ![3 Image](imgs/3.PNG)
